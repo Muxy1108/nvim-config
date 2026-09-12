@@ -17,4 +17,10 @@ require("lazy").setup({
     { import = "plugins.colorscheme" },
     { import = "plugins.cmp" },
     { import = "plugins.lsp" },
+    { import = "plugins.filetree" },
+    { import = "plugins.format" },
+    { import = "plugins.gitsigns" },
+    { import = "plugins.lualine" },
+    { import = "plugins.telescope" },
+    { import = "plugins.treesitter" },
 })
